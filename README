@@ -2,7 +2,7 @@
   The Junos Operating System
 ==============================
 
-    Junos is a hobby operating system written by Mengqingyu. It running
+    Junos is a hobby operating system written by lilin,mengqingyu,jiangxiaoning,wanglin,wangning,songxiaolin. It running
   on PC environment. It need the Intel CPU i386 or higher.
     Junos is very simple now, it just can be bootable. It support multi 
   process, multi user, simple minix file system , simple Unixlink syscall 
